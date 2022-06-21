@@ -1,0 +1,38 @@
+[{
+        "name": "Auto Clicker",
+        "desc": "Finally! Some form of automation!",
+        "initial cost": 15,
+        "generate": 0.1
+    },
+    {
+        "name": "Bamboo Farmers",
+        "desc": "Cheap labourers... What could go wrong?",
+        "initial cost": 100,
+        "generate": 1
+    },
+    {
+        "name": "Pandas",
+        "desc": "Pandas like bamboo, we must buy them out so they don't eat anymore.",
+        "initial cost": 1100,
+        "generate": 8
+    },
+    {
+        "name": "Bamboo Forests",
+        "desc": "Begin massive bamboo plantations because bamboo isn't invasive enough",
+        "initial cost": 12000,
+        "generate": 47
+    },
+    {
+        "name": "Bamboo Factory",
+        "desc": "Technology has progressed and we're now able to industrialize bamboo!",
+        "initial cost": 130000,
+        "generate": 260
+    },
+    {
+        "name": "Bamboo Propoganda",
+        "desc": "Promot bamboo accross the world!! More bamboo!!!",
+        "initial cost": 1400000,
+        "generate": 1400
+    }
+
+]
